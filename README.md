@@ -308,3 +308,16 @@ En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiv
 
 Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.
 
+CONCLUSIONES:
+
+-Las formas sinusoidales cambian dependiendo sus caracteristicas como son su periodo y la frecuencia, y con estos cambios cambian los valores tanto del voltaje como la corriente
+
+-Un capacitor es un elemento algo basico el cual debe ser usado con precaucion al igual que cualquier elemento cuando se manejan circuitos electricos
+
+VIDEO
+
+https://youtu.be/4mGEVJXEert2o9k
+
+BIBLIOGRAFIA
+
+LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
